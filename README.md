@@ -5,3 +5,5 @@ NOTE1 : The entire project, including all the required files can be found here :
 
 NOTE2 : Currently, this application has been made only for students of BMS College of Engineering, for easier authentication; however it can be generalized by making the required modification in the scripts.
 
+NOTE3 : To use the PHP scripts, the scripts will have to be changed by the user. Here, XAMPP has been used.
+
